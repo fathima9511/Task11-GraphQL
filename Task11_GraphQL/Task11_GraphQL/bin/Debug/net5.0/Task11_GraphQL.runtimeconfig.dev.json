@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nifra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nifra\\.nuget\\packages"
+    ]
+  }
+}
